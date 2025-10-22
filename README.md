@@ -40,7 +40,7 @@ All transactions are recorded on the blockchain.
 ⚙️ Setup Instructions
 
 Clone the repository:
-Shellgit clone https://github.com/CodeSparkEngineering/pearlswap.gitShow more lines
+Shellgit clone [https://github.com/CodeSparkEngineering/pearlswap.gitShow more lines](https://github.com/CodeSparkEngineering/project_web3_Pearlswap-main)
 
 Install dependencies:
 Shellcd frontendnpm installShow more lines
